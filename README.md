@@ -1,3 +1,5 @@
+[вот здесь обсуждение](https://github.com/orgs/LingConLab/teams/daghestanian-relatives)
+
 # Введение
 
 Здесь будет интересный текст
